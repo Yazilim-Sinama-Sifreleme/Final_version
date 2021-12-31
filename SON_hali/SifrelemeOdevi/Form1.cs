@@ -245,7 +245,7 @@ namespace SifrelemeOdevi
                     ps = new Password();
                     txtOriginalResult.Text = txtEnterValue.Text;
                     //SpnEncode();
-                    ps.SpnEncode(txtEnterValue.Text, txtSecurityKey.Text);
+                   txtEncodingResult.Text= ps.SpnEncode(txtEnterValue.Text, txtSecurityKey.Text);
                 }
             }
         }
