@@ -1,0 +1,92 @@
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe.config
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.pdb
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.AssemblyReference.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Form1.resources
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Properties.Resources.resources
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.GenerateResource.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.exe
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.pdb
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe.config
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.pdb
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.AssemblyReference.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Form1.resources
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Properties.Resources.resources
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.GenerateResource.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.exe
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.pdb
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe.config
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.pdb
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SimpleTcp.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SimpleTcp.xml
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.AssemblyReference.cache
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Form1.resources
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Properties.Resources.resources
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.GenerateResource.cache
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.CopyComplete
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.exe
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.pdb
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe.config
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.pdb
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SimpleTcp.dll
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SimpleTcp.xml
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.AssemblyReference.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Form1.resources
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Properties.Resources.resources
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.GenerateResource.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.CopyComplete
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.exe
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.pdb
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\WebDriver.dll
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.abstractions.dll
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.assert.dll
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.core.dll
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.execution.desktop.dll
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.abstractions.xml
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.assert.xml
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.core.xml
+C:\Users\HamzaKaya\Desktop\SifrelemeOdevi\Umut\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.execution.desktop.xml
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe.config
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.exe
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SifrelemeOdevi.pdb
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SimpleTcp.dll
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\System.IO.Compression.dll
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\WebDriver.dll
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.abstractions.dll
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.assert.dll
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.core.dll
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.execution.desktop.dll
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\SimpleTcp.xml
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.abstractions.xml
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.assert.xml
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.core.xml
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.execution.desktop.xml
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.AssemblyReference.cache
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Form1.resources
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.Properties.Resources.resources
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.GenerateResource.cache
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.csproj.CopyComplete
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.exe
+C:\Users\melsa\OneDrive\Masaüstü\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\obj\Debug\SifrelemeOdevi.pdb
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\System.IO.Compression.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\WebDriver.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.abstractions.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.assert.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.core.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.execution.desktop.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.abstractions.xml
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.assert.xml
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.core.xml
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\xunit.execution.desktop.xml
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\nunit.framework.dll
+C:\Users\umut\Desktop\SocketProgrammingOrigin\Yeni klasör (2)\SifrelemeOdevi\bin\Debug\nunit.framework.xml
